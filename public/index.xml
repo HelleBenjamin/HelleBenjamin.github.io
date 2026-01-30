@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Helle&#39;s site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Benjamin Helle&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 21:00:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running LLMs on a Raspberry Pi Zero 2W</title>
+      <link>http://localhost:1313/posts/1/</link>
+      <pubDate>Fri, 30 Jan 2026 21:00:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/1/</guid>
+      
+      <description>&lt;p&gt;In this tutorial I will show you how to run LLMs locally on a $15 computer, Raspberry Pi Zero 2W with llama.cpp.&lt;/p&gt;
+&lt;h3 id=&#34;versions-used-in-this-tutorial&#34;&gt;Versions used in this tutorial&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34;&gt;llama.cpp&lt;/a&gt; version b7886-f3bc98890&lt;/li&gt;
+&lt;li&gt;Raspberry Pi OS, Legacy Lite 64-bit, (Debian 12)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pre-requisites&#34;&gt;Pre-requisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Raspberry Pi Zero 2W&lt;/li&gt;
+&lt;li&gt;Debian 12 64-bit, other versions might work as well&lt;/li&gt;
+&lt;li&gt;~2GB of free space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I highly recommend using zram as it in most cases improves the performance. You can find many instructions online, I recommend &lt;a href=&#34;https://pimylifeup.com/raspberry-pi-zram/&#34;&gt;this one&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Thu, 29 Jan 2026 19:57:28 +0200</pubDate>
+      
+      <guid>http://localhost:1313/pages/about/</guid>
+      
+      <description>&lt;p&gt;I&amp;rsquo;m a hobbyist from Finland. I&amp;rsquo;m interested in programming and computers in general. I started coding in Python, and I&amp;rsquo;ve been coding in C for about 4 years.
+I like to experiment with different tools, languages, devices, etc.&lt;/p&gt;
+&lt;p&gt;What stuff I use(little bit TODO):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OS: OpenSuse Tumbleweed&lt;/li&gt;
+&lt;li&gt;Terminal: Konsole&lt;/li&gt;
+&lt;li&gt;Editor: VSCode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My PC specs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MOBO: Gigabyte Z490M&lt;/li&gt;
+&lt;li&gt;CPU: Intel Core i7-10700KF&lt;/li&gt;
+&lt;li&gt;RAM: HyperX Predator 16GB DDR4 3200Mhz&lt;/li&gt;
+&lt;li&gt;GPU: Gigabyte Radeon RX 7600&lt;/li&gt;
+&lt;li&gt;Storage: 512TB Intel 660p NVMe SSD, 2TB Toshiba P300 HDD&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Initial Post</title>
+      <link>http://localhost:1313/posts/0/</link>
+      <pubDate>Thu, 29 Jan 2026 16:04:02 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/0/</guid>
+      
+      <description>&lt;p&gt;So this is my first post on my blog. This is a test to see if this site works. Hello from 2026!&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

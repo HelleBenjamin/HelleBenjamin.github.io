@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Benjamin Helle&#39;s site</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Benjamin Helle&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jan 2026 19:57:28 +0200</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Thu, 29 Jan 2026 19:57:28 +0200</pubDate>
+      
+      <guid>http://localhost:1313/pages/about/</guid>
+      
+      <description>&lt;p&gt;I&amp;rsquo;m a hobbyist from Finland. I&amp;rsquo;m interested in programming and computers in general. I started coding in Python, and I&amp;rsquo;ve been coding in C for about 4 years.
+I like to experiment with different tools, languages, devices, etc.&lt;/p&gt;
+&lt;p&gt;What stuff I use(little bit TODO):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OS: OpenSuse Tumbleweed&lt;/li&gt;
+&lt;li&gt;Terminal: Konsole&lt;/li&gt;
+&lt;li&gt;Editor: VSCode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My PC specs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MOBO: Gigabyte Z490M&lt;/li&gt;
+&lt;li&gt;CPU: Intel Core i7-10700KF&lt;/li&gt;
+&lt;li&gt;RAM: HyperX Predator 16GB DDR4 3200Mhz&lt;/li&gt;
+&lt;li&gt;GPU: Gigabyte Radeon RX 7600&lt;/li&gt;
+&lt;li&gt;Storage: 512TB Intel 660p NVMe SSD, 2TB Toshiba P300 HDD&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Benjamin Helle's site"
+theme = "hugo-blog-awesome"
+
+[params]
+  goToTop = true
+  math    = true
+
+[services]
+  [services.disqus]
+    shortname = "discussion"
+
+[params.author]
+  name        = "Benjamin Helle"
+  intro       = "Benjamin's Website"
+  description = "Welcome to my website. Here you can find information about my projects and blog posts (and random stuff)."
+  avatar      = "avatar.jpg"
+
+[[params.socialIcons]]
+name  = "github"
+url   = "https://github.com/HelleBenjamin"
+
+[[menu.main]]
+name    = "about"
+url     = "/about/"
+pageref = "about"
+
+[[menu.main]]
+name  = "posts"
+url   = "/posts/"

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Benjamin Helle&#39;s site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Benjamin Helle&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 21:00:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running LLMs on a Raspberry Pi Zero 2W</title>
+      <link>http://localhost:1313/posts/1/</link>
+      <pubDate>Fri, 30 Jan 2026 21:00:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/1/</guid>
+      
+      <description>&lt;p&gt;In this tutorial I will show you how to run LLMs locally on a $15 computer, Raspberry Pi Zero 2W with llama.cpp.&lt;/p&gt;
+&lt;h3 id=&#34;versions-used-in-this-tutorial&#34;&gt;Versions used in this tutorial&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34;&gt;llama.cpp&lt;/a&gt; version b7886-f3bc98890&lt;/li&gt;
+&lt;li&gt;Raspberry Pi OS, Legacy Lite 64-bit, (Debian 12)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pre-requisites&#34;&gt;Pre-requisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Raspberry Pi Zero 2W&lt;/li&gt;
+&lt;li&gt;Debian 12 64-bit, other versions might work as well&lt;/li&gt;
+&lt;li&gt;~2GB of free space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I highly recommend using zram as it in most cases improves the performance. You can find many instructions online, I recommend &lt;a href=&#34;https://pimylifeup.com/raspberry-pi-zram/&#34;&gt;this one&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Initial Post</title>
+      <link>http://localhost:1313/posts/0/</link>
+      <pubDate>Thu, 29 Jan 2026 16:04:02 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/0/</guid>
+      
+      <description>&lt;p&gt;So this is my first post on my blog. This is a test to see if this site works. Hello from 2026!&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
